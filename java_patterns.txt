@@ -1,0 +1,45 @@
+3
+Design Patterns:
+
+a.Creational Patterns (object creation mechanisms):
+
+1) Singleton: Ensures a class has only one instance. --Completed
+2) Factory Method: Creates objects without specifying the exact class. --Completed
+3) Abstract Factory: Creates families of related or dependent objects. --Completed
+4) Builder: Constructs complex objects step by step. --Completed
+4) Prototype: Creates objects by copying an existing object. --Completed
+
+
+b. Structural Patterns (object composition)
+
+1) Adapter: Converts one interface to another. --Completed
+2) Decorator: Adds responsibilities to objects dynamically.
+3) Proxy: Provides a placeholder or surrogate for another object.
+4) Composite: Treats individual objects and compositions uniformly.
+5) Facade: Provides a unified interface to a set of interfaces.
+6) Flyweight: Reduces memory usage by sharing common data. 
+
+
+c. Behavioral Patterns (communication between objects)
+
+
+1) Strategy: Encapsulates interchangeable algorithms.
+2) Observer: Notifies dependent objects of state changes.
+3) Command: Encapsulates a request as an object.
+4) Template Method: Defines the skeleton of an algorithm in a superclass.
+5) State: Allows an object to alter its behavior when its state changes.
+6) Chain of Responsibility: Passes requests along a chain of handlers.
+7) Mediator: Reduces communication complexity between objects.
+8) Visitor, Interpreter, Iterator, Memento: Other common patterns.
+
+
+Common Java-Specific Coding Patterns::
+
+1) Fluent Interface / Method Chaining
+2) Builder with Lombok or manual
+3) Try-with-resources
+4) Optional<T> for null-safe operations
+
+
+
+
